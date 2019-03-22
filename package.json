@@ -1,0 +1,27 @@
+{
+  "name": "nextjs_demo",
+  "version": "1.0.0",
+  "description": "React同构(服务端渲染)框架nextjs",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Duanzihuang/nextjs_demo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Duanzihuang/nextjs_demo/issues"
+  },
+  "homepage": "https://github.com/Duanzihuang/nextjs_demo#readme",
+  "dependencies": {
+    "next": "^8.0.3",
+    "react": "^16.8.4",
+    "react-dom": "^16.8.4"
+  }
+}
